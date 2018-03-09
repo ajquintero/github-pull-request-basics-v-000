@@ -35,3 +35,8 @@ educational content. Everything from fixing typos, to correcting
 out-dated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
 welcome.
+
+# Pull request test
+
+I am testing my ability to contribute to Learn through Github Pull Requests!
+This should be a slight change from the master branch
